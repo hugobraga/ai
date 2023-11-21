@@ -2,3 +2,9 @@
 **/lightning_logs/
 **/.ipynb_checkpoints/
 **/.vscode
+
+#ignore zipped files
+**/*.gz
+
+#ignoring data batch files
+**/*data*batch*
