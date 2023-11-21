@@ -1,10 +1,18 @@
+#ignore mac os database files
 **/.DS_Store
+
+#ignore lightning logs
 **/lightning_logs/
+
+#ignore jupyter notebook checkpoints
 **/.ipynb_checkpoints/
+
+#ignore vscode related files
 **/.vscode
 
 #ignore zipped files
 **/*.gz
 
-#ignoring data batch files
+#ignore data batch files
 **/*data*batch*
+**/cifar-10-batches-py
