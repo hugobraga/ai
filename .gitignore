@@ -16,3 +16,6 @@
 #ignore data batch files
 **/*data*batch*
 **/cifar-10-batches-py
+
+#ignore binary files
+**/*ubyte
