@@ -20,5 +20,5 @@
 #ignore binary files
 **/*ubyte
 
-*ignore saved models
+#ignore saved models
 **/models/*.pt
