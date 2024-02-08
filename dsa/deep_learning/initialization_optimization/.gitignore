@@ -1,0 +1,4 @@
+#ignore copied data
+**/data/teste/*
+**/data/treino/*
+**/data/val/*
