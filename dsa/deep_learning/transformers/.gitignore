@@ -1,2 +1,2 @@
-#ignore data batch files
+#ignore saved model files
 project/models/*
