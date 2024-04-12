@@ -1,0 +1,3 @@
+#ignore data batch files
+**/*data*batch*
+project/models/*
