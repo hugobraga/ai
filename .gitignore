@@ -22,9 +22,13 @@
 
 #ignore saved models
 **/models/*.pt
+**/saved_model/*.pt
 
 #ignore img data files
 **/data/**/*.jpg
 
 #ignore downloaded MNIST folder
 **/data/**/MNIST/
+
+#ignore __pycache__ files
+**/__pycache__
