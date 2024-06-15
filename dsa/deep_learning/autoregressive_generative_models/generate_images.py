@@ -14,7 +14,14 @@ SAVE_DIR = "generated/"
 os.makedirs(SAVE_DIR, exist_ok = True)
 
 # Caminho para o modelo treinado
-MODEL_PATH = "saved_model/modelo_pixelcnn49.pt"
+MODEL_PATH = "dsa/deep_learning/autoregressive_generative_models/saved_model/modelo_pixelcnn49.pt"
+
+# Print current working directory
+print("Current working directory:", os.getcwd())
+
+# Check if the model path exists
+if not os.path.exists(MODEL_PATH):
+    raise FileNotFoundError(f"The model file was not found at {MODEL_PATH}")
 
 # Device
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
