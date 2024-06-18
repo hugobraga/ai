@@ -23,6 +23,8 @@
 #ignore saved models
 **/models/*.pt
 **/saved_model/*.pt
+**/models/**/*.json
+**/models/**/*.safetensors
 
 #ignore img data files
 **/data/**/*.jpg
