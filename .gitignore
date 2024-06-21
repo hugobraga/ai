@@ -25,6 +25,7 @@
 **/saved_model/*.pt
 **/models/**/*.json
 **/models/**/*.safetensors
+**/model/*.pth
 
 #ignore img data files
 **/data/**/*.jpg
