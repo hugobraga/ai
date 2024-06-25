@@ -38,3 +38,6 @@
 
 #ignore __pycache__ files
 **/__pycache__
+
+#not ignore gitkeep files
+!**/.gitkeep
