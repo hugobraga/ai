@@ -1,4 +1,6 @@
-#ignore copied data
+# Do not delete this gitignore. It overrides the more general .gitignore file.
+# The data input folder with image examples is necessary.
+# ignore copied data
 **/data/teste/*
 **/data/treino/*
 **/data/val/*
