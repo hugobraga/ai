@@ -36,6 +36,9 @@
 #ignome medical images input
 **/medical*/data/*
 
+#ignore (general and and downloadable) input data
+**/input/*
+
 #ignore __pycache__ files
 **/__pycache__
 
