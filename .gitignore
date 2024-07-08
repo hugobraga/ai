@@ -44,3 +44,9 @@
 
 #not ignore gitkeep files
 !**/.gitkeep
+
+#ignore downloaded dataset images
+**/dataset/*
+
+#do not ignore .gitkeep files
+!**/.gitkeep
