@@ -1,3 +1,7 @@
 # Do not delete this gitignore. It overrides the more general .gitignore file.
 # The data input folder with image examples is necessary.
 !**/data/*.jpg
+
+#ignore downloadable files
+yolo/yolo/yolo*
+yolo/yolo/coco.*
