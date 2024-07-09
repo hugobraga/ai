@@ -1,0 +1,19 @@
+Configuração de Hardware Usada Neste Capítulo:
+
+
+Falcon - Core i7 com 16 GB de RAM - Sem GPU Nvidia
+
+Malibu - Core i9 com 32 GB de RAM - GPU Nvidia RTX 3080 com 8 GB de RAM
+
+Eagle - Apple M3 Max com 128 GB de RAM - Sem GPU Nvidia
+
+Google Colab - Intel(R) Xeon(R) CPU @ 2.20GHz com 85 GB de RAM - GPU Nvidia A100 com 40 GB de RAM
+
+
+No Linux (incluindo o Colab), use o comando abaixo para verificar a CPU:
+
+lscpu |grep 'Model name'
+
+No MacOS, use:
+
+sysctl -a | grep machdep.cpu 
