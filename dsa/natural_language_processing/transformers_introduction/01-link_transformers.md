@@ -1,0 +1,1 @@
+[Transformadores – O Estado da Arte em Processamento de Linguagem Natural](https://www.deeplearningbook.com.br/transformadores-o-estado-da-arte-em-processamento-de-linguagem-natural/)
