@@ -49,4 +49,7 @@
 **/dataset/*
 
 #do not ignore .gitkeep files
-!**/.gitkeep.idea/
+!**/.gitkeep
+
+#ignore .idea folder
+.idea/
