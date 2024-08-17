@@ -53,3 +53,6 @@
 
 #ignore .idea folder
 .idea/
+
+#.gitattributes file to manage Jupyter notebook diffs
+.gitattributes
