@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from model.pixelcnn import PixelCNN
 from tqdm import tqdm
 
-# Pasta para salvar as imagens geradas
+# Pasta para salvar as images geradas
 SAVE_DIR = "generated/"
 os.makedirs(SAVE_DIR, exist_ok = True)
 
@@ -34,7 +34,7 @@ model.load_state_dict(torch.load(MODEL_PATH, map_location = device))
 model.to(device)
 
 # Imagem gerada preenchida com zeros no formato numpy (apenas para criar a estrutura de dados).
-# São 16 matrizes de 1x28x28, ou seja, 16 imagens de tamanho 28x28 com um único canal de cor (escala de cinza).
+# São 16 matrizes de 1x28x28, ou seja, 16 images de tamanho 28x28 com um único canal de cor (escala de cinza).
 imagem_gerada = np.zeros((16, 1, 28, 28), dtype = np.float32)
 
 # Converte para o formato pytorch e manda para o device

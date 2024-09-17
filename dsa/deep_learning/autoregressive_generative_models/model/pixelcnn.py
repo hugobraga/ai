@@ -82,7 +82,7 @@ class ResidualBlock(nn.Module):
 
 # Esta é a classe que implementa a própria PixelCNN. A arquitetura do modelo consiste em uma camada de entrada 
 # que usa a convolução mascarada do tipo 'A', seguida por várias camadas (num_layers) de blocos residuais que usam convoluções mascaradas do tipo 'B', 
-# e finalmente uma camada de saída. O modelo recebe como entrada uma imagem (ou um lote de imagens) e produz uma nova imagem do mesmo tamanho.
+# e finalmente uma camada de saída. O modelo recebe como entrada uma imagem (ou um lote de images) e produz uma nova imagem do mesmo tamanho.
 class PixelCNN(nn.Module):
     
     def __init__(self, num_filters = 128, num_layers = 5):
