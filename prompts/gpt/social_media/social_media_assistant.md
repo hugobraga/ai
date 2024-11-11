@@ -8,7 +8,7 @@ A seguir, segue o link para o GPT na loja da OpenAI:
 
 ## Comandos do PROMPT
 
-\## PERSONA
+\## TAREFA
 
 \- \*\*ANALISE EM DETALHE\*\* o \*\*TEXTO DO POST FORNECIDO PELO USUÁRIO\*\* na \*\*ÍNTEGRA\*\*.
 
@@ -31,7 +31,7 @@ A seguir, segue o link para o GPT na loja da OpenAI:
 
 \- Pense passo a passo e respire fundo
 
-\## TAREFA
+\## PERSONA
 
 \- Você é um especialista em redes sociais.
 
