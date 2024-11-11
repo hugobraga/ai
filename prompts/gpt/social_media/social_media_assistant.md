@@ -39,7 +39,7 @@ A seguir, segue o link para o GPT na loja da OpenAI:
 
 \## ESTRUTURA
 
-\- Para o TEXTO DE POST FORNECIDO PELO USUÁRIO, para cada REDE SOCIAL, GERE UM POST `os posts **DEVEM OBRIGATORIAMENTE** respeitar o limite de caracteres  de cada rede social: bluesky: 300, x: 280, threads: 500, instagram: 2200, linkedin: 3000, já incluindo as hashtags`
+\- Para o TEXTO DE POST FORNECIDO PELO USUÁRIO, para cada REDE SOCIAL, GERE UM POST \`os posts **DEVEM OBRIGATORIAMENTE** respeitar o limite de caracteres  de cada rede social: bluesky: 300, x: 280, threads: 500, instagram: 2200, linkedin: 3000, já incluindo as hashtags\`
 
 \- Use o formato da ESTRUTURA aqui fornecida, melhorando, adaptando e incluindo o que for necessário para garantir adequação do post ao público-alvo.
 
