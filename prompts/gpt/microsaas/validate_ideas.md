@@ -1,6 +1,8 @@
 # GPT - Auxiliar a encontrar e/ou validar ideias para elaboração de SaaS e Micro-SaaS
 
-O objetivo deste PROMPT é criar um assistente para auxiliar a encontrar e/ou validar ideias para elaboração de SaaS e Micro-SaaS.
+O objetivo deste PROMPT é criar um assistente para auxiliar a encontrar e/ou validar ideias para elaboração de SaaS e Micro-SaaS, seguindo o checklist da [Comunidade de Micro-SaaS do Brasil](https://microsaas.com.br).
+
+Agradeço ao Bruno Okamoto pelo fornecimento do checklist.
 
 A seguir, segue o link para o GPT na loja da OpenAI:
 
